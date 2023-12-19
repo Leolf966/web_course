@@ -1,0 +1,101 @@
+/* global */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 25px;
+}
+
+/* header */
+.start {
+    text-align: center;
+}
+
+.bigger {
+    text-align: center;
+    font-size: 40px;
+}
+
+/* Меркурій */
+
+.merc {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.tag {
+font-size: 32px;
+}
+
+.sun {
+    width: 868px;
+    height: 57px;
+    top: 494px;
+}
+
+/* venera */
+
+.ven {
+    padding-top: 50px;
+}
+
+.ones {
+    font-size: 32px;
+    display: flex;
+    justify-content: end;
+}
+
+/* earth */
+
+.earth {
+    display: flex;
+    justify-content: end;
+    padding-top: 50px;
+}
+
+.hey {
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+/* mars */
+
+.mars {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+/* yup */
+
+.yup {
+    display: flex;
+    justify-content: center;
+}
+
+/* saturn */
+
+.saturn {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+/* uran */
+
+.uran {
+    padding-top: 55px;
+}
+
+/* neptun */
+
+.neptun {
+    display: flex;
+    justify-content: end;
+}
